@@ -20,7 +20,7 @@
     pico-gpio test
 
 
-  ###APP ICON
+  ### APP ICON
   #### Step 1: Extract the Zip
   
     unzip Pico_GPIO_Studio.zip
