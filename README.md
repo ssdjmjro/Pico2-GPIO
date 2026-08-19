@@ -18,3 +18,19 @@
   ### 3 Step 3: Test It
   
     pico-gpio test
+
+
+#### Step 1: Extract the Zip
+  
+    unzip Pico_GPIO_Studio.zip
+    cd pico2_gpio
+  
+  #### Step 2: Run the 1-Click Automated Setup
+  
+    bash setup.sh
+  
+  This installs the Python driver, creates the desktop icon, and registers USB plug-and-play permissions.          
+  
+  #### Step 3: Plug in your Pico 2 & Activate
+  
+    ./activate.sh
